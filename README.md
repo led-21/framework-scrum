@@ -15,7 +15,7 @@ A abordagem ágil, com a implementação do Scrum, foi vista como uma forma de m
 ## Por que o Scrum foi utilizado?
 O Scrum foi visto como o melhor framework de gerenciamento de projetos para enfrentar esses desafios, promovendo uma abordagem mais integrada e ágil.
 
-## O resultado final era inovador? Por quê?
+## Resultados Inovadores
 Os resultados demonstram uma mudança significativa da abordagem tradicional baseada em comando e controle para uma organização que pratica planejamento empírico e auto-organização, o que é considerado inovador no contexto da cultura corporativa da Intel da época. 
 
 -	Redução do Tempo de Ciclo: a implementação do Scrum contribuiu para uma redução de 66% no tempo de ciclo, o que é significativo na indústria de microprocessadores;
@@ -28,4 +28,4 @@ Os resultados demonstram uma mudança significativa da abordagem tradicional bas
 Nada, houve uma redução 66% no tempo de ciclo, o que é significativo.
 
 ## Referência
-http://www.michaeljames.org/Intel-case-study.pdf
+Danube Case Study: Intel Corporation, 2008. Disponível em: http://www.michaeljames.org/Intel-case-study.pdf
